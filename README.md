@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **daniel1000123442/daniel1000123442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<hr>
-
-I am AI sorftware student in shingu sollege
-<hr>
+## I am AI sorftware student in shingu sollege
 
 ## 안녕하세요 천진우입니다
 
