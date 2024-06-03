@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <hr>
+
+I am AI sorftware student in shingu sollege
+<hr>
+
+안녕하세요 천진우입니다
+
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
