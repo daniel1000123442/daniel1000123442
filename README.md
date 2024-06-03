@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## I am AI sorftware student in shingu sollege
 
 ## 안녕하세요 천진우입니다
+코딩 배워가는 중입니다!
 
 
 
