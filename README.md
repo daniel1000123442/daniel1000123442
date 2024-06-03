@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 I am AI sorftware student in shingu sollege
 <hr>
 
-안녕하세요 천진우입니다
+## 안녕하세요 천진우입니다
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+
+
+- 🤔 버그는 싫어요 ...
+- 💬 파이썬 알아가는중 ...
+- ⚡ 빛보다빠른 ctrl + c ctrl + v
